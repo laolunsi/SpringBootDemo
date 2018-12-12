@@ -1,6 +1,8 @@
 # SpringBootDemo
 SpringBoot+SSM框架整合，最简单的实例！
 
+该项目为DEMO，仅完成了示例登录功能，若需其他功能请自行添加。
+
 注意，系统运行需要建立对应的数据库和表。
 本地导入前请先执行一下resource文件夹下的umanager.sql文件，或者参照下面的说明建库和表。
 
